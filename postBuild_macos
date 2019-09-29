@@ -1,0 +1,6 @@
+#!/bin/bash
+
+export COIN_INSTALL_DIR=/Users/scollis/anaconda3/envs/argentina/
+/Users/scollis/anaconda3/envs/argentina/bin/pip install git+https://github.com/coin-or/CyLP
+
+# End
